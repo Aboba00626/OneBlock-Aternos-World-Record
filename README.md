@@ -1,10 +1,10 @@
 # OneBlock-Aternos-World-Record
-The longest Skript file for OneBlock on Aternos (10,000+ lines). Complete game system.
+The longest Skript file for OneBlock on Aternos (6000+ lines). Complete game system.
 # 🏆 OneBlock Infinity Core: Aternos World Record
 Этот проект — абсолютный рекорд для платформы Aternos и плагина Skript. 
 
 ## 📊 Характеристики:
-- **Количество строк:** 10,000+
+- **Количество строк:** 6000+
 - **Вес системы:** Максимальный для бесплатного хостинга
 - **Версия игры:** 1.20.1
 
